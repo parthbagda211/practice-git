@@ -1,5 +1,3 @@
-Here are the steps to perform the requested Git operations:
-
 1. **Set your username and email in Git config**:
    ```bash
    git config --global user.name "Your Name"
